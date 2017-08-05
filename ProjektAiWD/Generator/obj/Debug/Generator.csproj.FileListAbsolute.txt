@@ -1,0 +1,9 @@
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\bin\Debug\Generator.exe.config
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\obj\Debug\Generator.Properties.Resources.resources
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\obj\Debug\Generator.csproj.GenerateResource.Cache
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\bin\Debug\Generator.exe
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\bin\Debug\Generator.pdb
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\obj\Debug\Generator.exe
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\obj\Debug\Generator.pdb
+D:\2 sem\Analiza i wizualizacja danych\Projekt\ProjektAiWD\Generator\obj\Debug\Generator.Form1.resources
